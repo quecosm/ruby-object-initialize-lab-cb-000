@@ -4,7 +4,7 @@ def initialize(name)
   @name = name
 end
 
-def name= (new_name)
+def name= (new_name = "Mutt")
   @name = new_name
 end
 
