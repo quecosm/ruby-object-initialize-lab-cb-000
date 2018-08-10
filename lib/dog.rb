@@ -1,7 +1,5 @@
 class Dog
    def initialize
-      puts "Create an animal"
-   end
    
    def set_name(new_name)
       @name = new_name
